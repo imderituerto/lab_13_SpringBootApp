@@ -1,0 +1,5 @@
+- Created a Spring-based project using Spring initalizr
+- Following the model/view/controller (MVC) pattern:
+  - model: where the data of the application is managed
+  - view: the user interacts with the application using a view
+  - controller: between the model and view, handles the user request via the view
